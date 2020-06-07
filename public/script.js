@@ -11,7 +11,10 @@ function setJoke(i = Math.floor(Math.random() * jokes.length)) {
   index = i;
   const { lines } = jokes[i];
   const el = document.querySelector('#joke');
-  el.innerHTML = lines.map(line => line.replace(/\*\*Q:\*\*/g, '').replace(/\*\*A:\*\*/g, '')).join('<p>');
+  el.innerHTML = lines
+    .map(line => line.replace(/\*\*Q:\*\*/g, '')
+    .replace(/\*\*A:\*\*/g, ''))
+    .join('<p>');
   document.querySelector('h1').innerText = 'Joke #' + i;
 }
 
