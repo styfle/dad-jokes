@@ -1,11 +1,17 @@
-body, html {
+body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
 	height: 100%;
-	background-color: darkslategray;
+	background-color: #ed9323;
 	color: white;
 	text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #4c3420;
+	}
 }
 
 h1 {
@@ -23,3 +29,7 @@ h1 {
 	margin: 0 auto;
 }
 
+button {
+	font-size: 30px;
+  border-radius: 5px;
+}
