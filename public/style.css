@@ -1,24 +1,25 @@
 body, html {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-    background-color: darkslategray;
-    color: white;
-    text-align: center;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background-color: darkslategray;
+	color: white;
+	text-align: center;
 }
 
 h1 {
-    font-family: monospace;
-    margin: 10px auto 50px auto;
+	font-family: monospace;
+	margin: 10px auto 50px auto;
 }
 
 #joke {
-    font-family: "Rammetto One";
-    font-size: 57px;
-    line-height: 63px;
-    letter-spacing: 1px;
-    text-shadow: rgba(0, 0, 0, 0.1) 5px 5px;
-    max-width: 1000px;
-    margin: 0 auto;
+	font-family: "Rammetto One";
+	font-size: 57px;
+	line-height: 63px;
+	letter-spacing: 1px;
+	text-shadow: rgba(0, 0, 0, 0.1) 5px 5px;
+	max-width: 1000px;
+	margin: 0 auto;
 }
+
