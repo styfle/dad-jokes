@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Which body part does a programmer know best?
+
+**A:** ARM
+
+---
+
 **Q:** Relationship status?
 
 **A:** I'll leave the relations to the database.
@@ -324,6 +330,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do UPS drivers get nervous when their internet is unstable?
+
+**A:** Because they might lose packets.
+
+---
+
 **Q:** Why couldn’t the user update a file on a shared server?
 
 **A:** They didn’t have the write permissions
@@ -618,6 +630,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
+**Q:** What do you call a beverage that is 75% Root Beer, and 75% Ice Cream?
+
+**A:** A Float
+
+---
+
 **Q:** What accommodations did the JavaScript developer request at the hotel?
 
 **A:** A room with a Vue.
@@ -627,6 +645,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Where do developers drink?
 
 **A:** The Foo bar
+
+---
+
+**Q:** Why was the engineer upset when the bartender served them `1` shot of whiskey?
+
+**A:** Because they thought they ordered a double.
 
 ---
 
@@ -693,6 +717,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q**: What are clouds made of?
 
 **A**: Mostly linux servers.
+
+---
+
+**Q**: Why did Tom Selleck never git commit anything?
+
+**A**: Because he thought he mustache his work.
 
 ---
 
@@ -832,7 +862,7 @@ Chuck Norris can take a screenshot of his blue screen.
 
 ---
 
-I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. 
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.
 
 It was a trip down Memory Lane.
 
@@ -844,4 +874,54 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 **Q**: Why do Front-End Developers eat lunch alone?
 
-**A**: Because, they don't know how to join tables. 
+**A**: Because, they don't know how to join tables.
+
+---
+
+**Q**: What advice do you give to a JS developer who has never played baseball?
+
+**A**: Try catch.
+
+---
+
+**Q**: Got any funny DNS jokes?
+
+**A**: Yeah, but it may take 24 hours to get it.
+
+---
+
+**Q**: Why were A & B so frustrated?
+
+**A**: Because they couldn’t cd…
+
+---
+
+**Q**: Where do programmer dad's store their jokes?
+
+**A**: In a dad-a-base.
+
+---
+
+**Q**: Why do Websockets make the best therapists?
+
+**A**: They are always listening.
+
+---
+
+**Q**: Why did the ALU refuse to add two subnibbles.
+
+**A**: Because it refuses to be seen doing a two-bit operation.
+
+---
+
+**Q**: How do you know your baby is going to be a developer when they grow up?
+
+**A**: Their first word is "Hello world!"
+
+---
+
+**Q**: What kind of image saved the day?
+
+**A**: The HERO image!
+
+---
