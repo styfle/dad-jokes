@@ -925,3 +925,15 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: The HERO image!
 
 ---
+
+**Q**: Why do programmers prefer dark mode?
+
+**A**: Because light attracts bugs!
+
+---
+
+**Q**: Does this vaccine contain a microchip?
+
+**A**: I don't know for sure, but it must be ARM based.
+
+---
