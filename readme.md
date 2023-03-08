@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** What can you do if you cannot push your git changes?
+
+**A:** Use the `--force`, Luke
+
+---
+
 **Q:** Which body part does a programmer know best?
 
 **A:** ARM
@@ -276,6 +282,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Where is a slow query's favorite fishing spot?
+
+**A:** The latency.
+
+---
+
 **Q:** How does a developer make a cheer?
 
 **A:** ["hip","hip"] // (hip hip array!)
@@ -372,6 +384,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do C programmers write their letters in **bold**?
+
+**A:** Because they're **strongly** typed.
+
+---
+
 **Q:** What are computers' favorite snacks?
 
 **A:** Microchips, phish sticks, and cookies. But just a few bytes of each.
@@ -417,6 +435,12 @@ As in: OOPs I used Java!
 **Q:** Why don't parents teach their kids about regular expressions?
 
 **A:** Because they don't want them playing with matches
+
+---
+
+**Q:** Why was the developer complaining at the hotel reception?
+
+**A:** Because they couldn't find room 404
 
 ---
 
@@ -606,7 +630,7 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-**Q:** Why did the programmer come home crying?"
+**Q:** Why did the programmer come home crying?
 
 **A:** His friends were always boolean him.
 
@@ -780,6 +804,12 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q**: Why do cryptographers never have more than 2 kids?
+
+**A**: Because after Alice and Bob, they can't think of any other names
+
+---
+
 **Q:** How do JavaScript developers break up?
 
 **A:** They always promise to callback
@@ -902,6 +932,12 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
+**Q**: Why was the developer MEAN to React?
+
+**A**: Because they preferred Angular.
+
+---
+
 **Q**: Why do Websockets make the best therapists?
 
 **A**: They are always listening.
@@ -935,5 +971,77 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: Does this vaccine contain a microchip?
 
 **A**: I don't know for sure, but it must be ARM based.
+
+---
+
+**Q**: How do you make a 4D Printer?
+
+**A**: Take a 3D printer and give it some time
+
+---
+
+**Q**: How do front end devs like their brownies?
+
+**A**: GUI
+
+---
+
+Some languages can be read by humans, not by machines.
+
+Others can be read by machines but not by humans.
+
+XML solves this problem by being readable to neither.
+
+---
+
+**Q**: What do hackers do on a boat?
+
+**A**: Phishing.
+
+---
+
+**Q:** What is the most used language in programming?
+
+**A:** Profanity
+
+---
+
+**Q:** Why couldn't the HTML list be trusted?
+
+**A:** There were LI's everywhere
+
+---
+
+**Q:** To the person who invented zero
+
+**A:** Thank's for nothing
+
+---
+
+**Q:** What do you call a bee that lives in America?
+
+**A:** A USB
+
+---
+
+**Q:** What did Wonder Woman and Spider-Man name their business?
+
+**A:** Amazon Web Services
+
+---
+
+**Q:** What’s a Jedi’s favourite programming language?
+
+**A:** JabbaScript
+
+---
+
+**Q:** What do you call a 3.14 meters long snake?
+
+**A:** Python.
+
+---
+
+want about to a race conditions hear joke?
 
 ---
