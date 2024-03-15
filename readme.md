@@ -1045,3 +1045,21 @@ XML solves this problem by being readable to neither.
 want about to a race conditions hear joke?
 
 ---
+
+**Q:** What did the .NET developer name their boat?
+
+**A:** Sea Sharp
+
+---
+
+**Q:** Why do developers listen to Led Zeppelin when they build APIs?
+
+**A:** To help them RAML on.
+
+---
+**Q:** What is a Package Managers favorite holiday?
+
+**A:** Dependency Day
+
+---
+
